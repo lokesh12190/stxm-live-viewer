@@ -136,7 +136,7 @@ class PublisherEmulator:
 
 
 if __name__ == "__main__":
-    publisher = PublisherEmulator(detector_shape=(4000, 4000))  # Frames can be as large as 4000x4000
+    publisher = PublisherEmulator(detector_shape=(200, 200))  # Frames can be as large as 4000x4000
     try:
         publisher.run()
     except KeyboardInterrupt:
