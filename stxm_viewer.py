@@ -145,7 +145,7 @@ class STXMVisualizationApp(QtWidgets.QMainWindow):
     
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("STXM Live Visualization v9 - Enhanced Controls")
+        self.setWindowTitle("STXM Live Visualization")
         self.resize(1700, 900)
         
         # Data storage
@@ -857,4 +857,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
