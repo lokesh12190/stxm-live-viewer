@@ -602,18 +602,6 @@ pytest test_viewer.py -v
 MIT License - See LICENSE file for details
 
 ---
-
-## 👥 Contact
-
-**Project**: DESY STXM Visualization Tool
-
-**Author**: Developed for DESY beamline experiments
-
-**Support**: For questions about this assignment, contact:
-- Lisa Dorofeeva (elizaveta.dorofeeva@desy.de)
-
----
-
 ## 📚 Additional Resources
 
 ### ZeroMQ (0MQ)
@@ -690,5 +678,3 @@ pip install -r requirements.txt Pillow
 - Data: `tcp://127.0.0.1:50002`
 
 ---
-
-**Version 9.0** | Last Updated: November 2025 | Status: Production Ready ✅
