@@ -1,9 +1,9 @@
 """
-STXM Live Visualization Application v9
+STXM Live Visualization Application 
 Displays live detector frames and STXM scan images from ZMQ data stream
 Optimized for high-speed data acquisition and large detector frames
 
-Enhanced Features:
+Features:
 - ROI (Region of Interest) selection with statistics
 - Comprehensive export options (STXM, frames, ROI data)
 - Pause/Resume acquisition
@@ -859,3 +859,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
